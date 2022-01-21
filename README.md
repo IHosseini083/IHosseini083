@@ -3,6 +3,37 @@
 I'm Iliya a passionate Python developer 👨🏻‍💻 and cyber security fan. 
 I mostly work with the famous web development framworks like FastAPI, Flask and Django; I love making fun and useful Web APIs.
 
+
+```python
+
+class Developer:
+    """A class that describes a developer and his/her skills"""
+    
+    def __init__(self) -> None:
+        self.name = "Iliya"
+        self.age = "18"
+        self.email = "IHosseini@pm.me"
+        self.language = "Python"
+        self.location = "Iran"
+        
+    def introduce(self) -> None:
+        print((
+            f"My name is {self.name}, "
+            f"I am {self.age} years old, "
+            f"I live in {self.location} "
+            f"and my email is {self.email}."
+        ))
+        
+    def say_hello(self) -> None:
+        print("Hello to you buddy! Welcome to my profile, hope you like it!")
+    
+    
+Iliya = Developer()
+Iliya.say_hello()
+
+```
+
+
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
