@@ -5,7 +5,17 @@ I mostly work with the famous web development framworks like FastAPI, Flask and 
 
 ## 🔧 Technologies & Tools
 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/git.svg" />
+<img height="34" width="34" src="https://unpkg.com/simple-icons@v6/icons/git.svg" />
+<img height="34" width="34" src="https://unpkg.com/simple-icons@v6/icons/python.svg" />
+<img height="34" width="34" src="https://unpkg.com/simple-icons@v6/icons/fastapi.svg" />
+<img height="34" width="34" src="https://unpkg.com/simple-icons@v6/icons/django.svg" />
+<img height="34" width="34" src="https://unpkg.com/simple-icons@v6/icons/linux.svg" />
+<img height="34" width="34" src="https://unpkg.com/simple-icons@v6/icons/postgresql.svg" />
+<img height="34" width="34" src="https://unpkg.com/simple-icons@v6/icons/mongodb.svg" />
+<img height="34" width="34" src="https://unpkg.com/simple-icons@v6/icons/postman.svg" />
+<img height="34" width="34" src="https://unpkg.com/simple-icons@v6/icons/vscode.svg" />
+<img height="34" width="34" src="https://unpkg.com/simple-icons@v6/icons/pycharm.svg" />
+<img height="34" width="34" src="https://unpkg.com/simple-icons@v6/icons/git.svg" />
 
 - 🔭 I’m currently learning Django and DRF.
 - 📫 How to reach me:
