@@ -5,17 +5,12 @@ I mostly work with the famous web development framworks like FastAPI, Flask and 
 
 ## 🔧 Technologies & Tools
 
-<img height="34" width="34" src="https://unpkg.com/simple-icons@v6/icons/git.svg" />
-<img height="34" width="34" src="https://unpkg.com/simple-icons@v6/icons/python.svg" />
-<img height="34" width="34" src="https://unpkg.com/simple-icons@v6/icons/fastapi.svg" />
-<img height="34" width="34" src="https://unpkg.com/simple-icons@v6/icons/django.svg" />
-<img height="34" width="34" src="https://unpkg.com/simple-icons@v6/icons/linux.svg" />
-<img height="34" width="34" src="https://unpkg.com/simple-icons@v6/icons/postgresql.svg" />
-<img height="34" width="34" src="https://unpkg.com/simple-icons@v6/icons/mongodb.svg" />
-<img height="34" width="34" src="https://unpkg.com/simple-icons@v6/icons/postman.svg" />
-<img height="34" width="34" src="https://unpkg.com/simple-icons@v6/icons/vscode.svg" />
-<img height="34" width="34" src="https://unpkg.com/simple-icons@v6/icons/pycharm.svg" />
-<img height="34" width="34" src="https://unpkg.com/simple-icons@v6/icons/git.svg" />
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
 - 🔭 I’m currently learning Django and DRF.
 - 📫 How to reach me:
