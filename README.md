@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Iliya a passionate Python developer and cyber security fan. 
+I mostly work with the famous web development framworks like FastAPI <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>FastAPI</title><path d="M12 0C5.375 0 0 5.375 0 12c0 6.627 5.375 12 12 12 6.626 0 12-5.373 12-12 0-6.625-5.373-12-12-12zm-.624 21.62v-7.528H7.19L13.203 2.38v7.528h4.029L11.376 21.62z"/></svg>
+
 <!--
 **IHosseini083/IHosseini083** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=IHosseini083&show_icons=true&theme=gotham" alt="Iliya's Github Stats" />
