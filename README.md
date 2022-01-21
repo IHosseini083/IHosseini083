@@ -1,20 +1,16 @@
-### Hi there 👋
+<h1 align="center">🤠 Hey there! I'm Iliya Hosseini</h1>
 
-I'm Iliya a passionate Python developer and cyber security fan. 
-I mostly work with the famous web development framworks like FastAPI <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>FastAPI</title><path d="M12 0C5.375 0 0 5.375 0 12c0 6.627 5.375 12 12 12 6.626 0 12-5.373 12-12 0-6.625-5.373-12-12-12zm-.624 21.62v-7.528H7.19L13.203 2.38v7.528h4.029L11.376 21.62z"/></svg>
+I'm Iliya a passionate Python developer 👨🏻‍💻 and cyber security fan. 
+I mostly work with the famous web development framworks like FastAPI, Flask and Django; I love making fun and useful Web APIs.
 
-<!--
-**IHosseini083/IHosseini083** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Technologies & Tools
 
-Here are some ideas to get you started:
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/git.svg" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently learning Django and DRF.
+- 📫 How to reach me:
+  - Email me at [here!](mailto:IHosseini@pm.me)
+  - PM me in telegram at [@Pygrammer](https://t.me/Pygrammer)
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=IHosseini083&show_icons=true&theme=gotham" alt="Iliya's Github Stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IHosseini083&show_icons=true" alt="Most Used Langs" />
