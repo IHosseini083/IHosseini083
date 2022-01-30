@@ -9,12 +9,12 @@ I mostly work with the famous web development framworks like FastAPI, Flask and 
 class Developer:
     """A class that describes a developer and his/her skills"""
     
-    def __init__(self) -> None:
-        self.name = "Iliya"
-        self.age = "18"
-        self.email = "IHosseini@pm.me"
-        self.language = "Python"
-        self.location = "Iran"
+    def __init__(self, name: str, age: int, email: str, lang: str, location: str) -> None:
+        self.name = name
+        self.age = age
+        self.email = email
+        self.language = lang
+        self.location = location
         
     def introduce(self) -> None:
         print((
@@ -28,7 +28,7 @@ class Developer:
         print("Hello to you buddy! Welcome to my profile, hope you like it!")
     
     
-Iliya = Developer()
+Iliya = Developer("Iliya", 18, "IHosseini@pm.me", "Python", "Iran")
 Iliya.say_hello()
 
 ```
