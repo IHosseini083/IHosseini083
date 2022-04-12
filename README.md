@@ -1,35 +1,31 @@
 <h1 align="center">🤠 Hey there! I'm Iliya Hosseini</h1>
 
-I'm Iliya a passionate Python developer 👨🏻‍💻 and cyber security fan. 
+I'm Iliya a passionate Python developer 👨🏻‍💻 and cyber security enthusiast.
 I mostly work with the famous web development framworks like FastAPI, Flask and Django; I love making fun and useful Web APIs.
 
 
 ```python
+from dataclasses import dataclass
 
+
+@dataclass
 class Developer:
-    """A class that describes a developer and his/her skills"""
-    
-    def __init__(self, name: str, age: int, email: str, lang: str, location: str) -> None:
-        self.name = name
-        self.age = age
-        self.email = email
-        self.language = lang
-        self.location = location
-        
-    def introduce(self) -> None:
-        print((
-            f"My name is {self.name}, "
-            f"I am {self.age} years old, "
-            f"I live in {self.location} "
-            f"and my email is {self.email}."
-        ))
-        
-    def say_hello(self) -> None:
-        print("Hello to you buddy! Welcome to my profile, hope you like it!")
+    name: str
+    age: int
+    location: str
+    languages: list[str]
+    frameworks: list[str]
+    currently_learning: str
     
     
-Iliya = Developer("Iliya", 18, "IHosseini@pm.me", "Python", "Iran")
-Iliya.say_hello()
+dev = Developer(
+    name="Iliya",
+    age=18,
+    location="Iran",
+    languages=["Python", "Dart"],
+    frameworks=["FastAPI", "Flask", ...],
+    currently_learning="Django",
+)
 
 ```
 
