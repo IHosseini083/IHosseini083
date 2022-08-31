@@ -1,6 +1,6 @@
-<h1 align="center">🤠 Hey there! I'm Iliya Hosseini</h1>
+<h1 align="center">Hey there! I'm Iliya Hosseini</h1>
 
-I'm Iliya a passionate Python developer 👨🏻‍💻 and cyber security enthusiast.
+I'm Iliya, a passionate Python programmer 🐍 and cyber security enthusiast.
 I mostly work with the famous web development framworks like FastAPI, Flask and Django; I love making fun and useful Web APIs.
 
 
@@ -22,9 +22,9 @@ dev = Developer(
     name="Iliya",
     age=18,
     location="Iran",
-    languages=["Python", "Dart"],
+    languages=["Python", "Rust"],
     frameworks=["FastAPI", "Flask", ...],
-    currently_learning="Django",
+    currently_learning="Rust",
 )
 
 ```
@@ -40,7 +40,7 @@ dev = Developer(
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
 
-- 🔭 I’m currently learning Django and DRF.
+- 🔭 I’m currently learning Rust 🦀
 - 📫 How to reach me:
   - Email me at [here!](mailto:IHosseini@pm.me)
   - PM me in telegram at [@Pygrammer](https://t.me/Pygrammer)
