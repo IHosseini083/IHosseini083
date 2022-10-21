@@ -22,9 +22,9 @@ dev = Developer(
     name="Iliya",
     age=18,
     location="Iran",
-    languages=["Python", "Rust"],
+    languages=["Python", ...],
     frameworks=["FastAPI", "Flask", ...],
-    currently_learning="Rust",
+    currently_learning="Docker",
 )
 
 ```
@@ -40,9 +40,8 @@ dev = Developer(
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
 
-- 🔭 I’m currently learning Rust 🦀
+- 🔭 I’m currently learning Docker
 - 📫 How to reach me:
   - Email me at [here!](mailto:IHosseini@pm.me)
-  - PM me in telegram at [@Pygrammer](https://t.me/Pygrammer)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=IHosseini083&show_icons=true&theme=gotham" alt="Iliya's Github Stats" />
