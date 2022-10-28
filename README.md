@@ -1,8 +1,4 @@
-<h1 align="center">Hey there! I'm Iliya Hosseini</h1>
-
-I'm Iliya, a passionate Python programmer 🐍 and cyber security enthusiast.
-I mostly work with the famous web development framworks like FastAPI, Flask and Django; I love making fun and useful Web APIs.
-
+<h1 align="center">Hey there! I'm Iliya</h1>
 
 ```python
 from dataclasses import dataclass
