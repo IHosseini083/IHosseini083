@@ -11,16 +11,14 @@ class Developer:
     location: str
     languages: list[str]
     frameworks: list[str]
-    currently_learning: str
     
     
 dev = Developer(
     name="Iliya",
-    age=18,
+    age=19,
     location="Iran",
     languages=["Python", ...],
     frameworks=["FastAPI", "Flask", ...],
-    currently_learning="Docker",
 )
 
 ```
@@ -36,7 +34,6 @@ dev = Developer(
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
 
-- 🔭 I’m currently learning Docker
 - 📫 How to reach me:
   - Email me at [here!](mailto:me@iliya.dev)
 
