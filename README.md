@@ -7,7 +7,6 @@ from dataclasses import dataclass
 @dataclass
 class Developer:
     name: str
-    age: int
     location: str
     languages: list[str]
     frameworks: list[str]
@@ -15,7 +14,6 @@ class Developer:
     
 dev = Developer(
     name="Iliya",
-    age=19,
     location="Iran",
     languages=["Python", ...],
     frameworks=["FastAPI", "Flask", ...],
